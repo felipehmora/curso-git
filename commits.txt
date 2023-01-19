@@ -1,0 +1,104 @@
+commit e6be2fe8f3ee18444e013988c030cda5c6be288c
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Thu Jan 19 12:28:09 2023 -0400
+
+    Agregando dos parrafos
+
+commit 48e1a4e458193d43175dd7caf497a460530b6138
+Merge: b7a4749 05497e5
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Thu Jan 19 12:26:03 2023 -0400
+
+    Resolviendo confllicto en agregando estaciones del año con fecha de inicio
+
+commit b7a474927aabd07727b30dde32ee9c93fdb0517d
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Thu Jan 19 12:06:04 2023 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 05497e53153d1ab43fa0a7bc15602a8fca2a9c7b
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Thu Jan 19 12:06:04 2023 -0400
+
+    Agregando las estaciones del año
+
+commit 814b9f8430a27b831a22a4a32329844710e1b81e
+Merge: 1c7586c e8374c9
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 16:27:25 2023 -0400
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit e8374c990fedb3f9b2a9e21a53abb519f10fb41b
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 16:22:07 2023 -0400
+
+    Agregando index.js al index.html
+
+commit 1c7586cc6fc623a5350ddd976d6b9cf74d138ca0
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 16:20:08 2023 -0400
+
+    Agregando style.css al index.html
+
+commit 5470a626a8e1f39bc96d48c5f1c10b88fb1c1f01
+Merge: ecc04ec 1f4f953
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 15:58:25 2023 -0400
+
+    Merge branch 'js'
+
+commit 1f4f9536a4f4fc8c75528d6e16529711b4930a1e
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 15:53:11 2023 -0400
+
+    creando index.js
+
+commit ecc04ec7a45cb5c8ad8629418f6e3c571c7e5243
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 15:50:59 2023 -0400
+
+    eliminando repo js
+
+commit e63914bbfa1d9d7ad69edc4eda74ff997bd1ec5b
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 15:47:03 2023 -0400
+
+    Creando style.css
+
+commit b46e559bc7a0957c30a2a08aeefbb8f7856ad797
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 15:39:25 2023 -0400
+
+    creando archivo index.html
+
+commit 83278ecaa0052490d52f7cda1ea6e8a19f06cba0
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 14:44:16 2023 -0400
+
+    ignorando archivos .exe
+
+commit ee0c43ec6f9f46142d14e8d972f30b3a1317c255
+Author: Felipe Hernández <79298389+felipehmora@users.noreply.github.com>
+Date:   Mon Jan 16 12:09:58 2023 -0400
+
+    Creando licencia del repositorio
+
+commit 22752467d69150ed7df4d476c2e44fff9d036f30
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 12:03:08 2023 -0400
+
+    Agregando más contenido al README
+
+commit 4c4b5e9bdf2f4b26e4e6b122366db6a1c6dcbedd
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 11:48:44 2023 -0400
+
+    agregando contenido inicial al readme
+
+commit c18faa894a82299bf9a1faa2ec3a7dc449d5af94
+Author: Felipe Hernandez <felipehmorahds@gmail.com>
+Date:   Mon Jan 16 11:42:48 2023 -0400
+
+    Primer commit
